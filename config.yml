@@ -1,0 +1,26 @@
+backend:
+  name: turbo-github
+  turbo_site_id: DOPLNIME_PO_VYTVORENI_SITE_V_DECAP_TURBO
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "products"
+    label: "E-knihy"
+    files:
+      - name: "catalog"
+        label: "Katalog e-knih"
+        file: "data/products.json"
+        format: "json"
+        fields:
+          - label: "Produkty"
+            name: "products"
+            widget: "list"
+            fields:
+              - { label: "Název", name: "title", widget: "string" }
+              - { label: "Cena", name: "price", widget: "number", value_type: "int" }
+              - { label: "Popis", name: "description", widget: "text" }
+              - { label: "Obrázek obálky", name: "cover", widget: "image", required: false }
+              - { label: "Odkaz na Payhip", name: "payhip_url", widget: "string" }
