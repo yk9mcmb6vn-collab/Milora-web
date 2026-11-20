@@ -12,7 +12,7 @@ collections:
     files:
       - name: "catalog"
         label: "Katalog e-knih"
-        file: "data/products.json"
+        file: "products.json"
         format: "json"
         fields:
           - label: "Produkty"
@@ -20,7 +20,7 @@ collections:
             widget: "list"
             fields:
               - { label: "Název", name: "title", widget: "string" }
-              - { label: "Cena v Kč", name: "price", widget: "number", value_type: "int" }
+              - { label: "Cena v Kč", name: "price", widget: "number" }
               - { label: "Popis", name: "description", widget: "text" }
               - { label: "Obálka", name: "cover", widget: "image", required: false }
               - { label: "Odkaz na Payhip", name: "payhip_url", widget: "string" }
