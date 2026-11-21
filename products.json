@@ -1,15 +1,6 @@
 {
   "products": [
     {
-      "title": "20 způsobů, jak zvládnout dětské emoce",
-      "price": 149,
-      "description": "Praktický průvodce pro rodiče dětí od 0 do 6 let.",
-      "cover": "/assets/uploads/4ecc7bb4-e52d-4acd-89a2-1f657075438c.png",
-      "payhip_url": "https://payhip.com/b/mBI4t",
-      "preview_intro": "Každý rodič zná situaci, kdy dítě najednou začne plakat, křičet, vztekat se nebo odmítat úplně všechno. Dítě se teprve učí rozpoznávat, pojmenovávat a zvládat to, co prožívá. Tato kniha nabízí 20 praktických způsobů, jak mu v náročných chvílích pomoci. Cílem není, aby dítě nikdy neplakalo nebo se nezlobilo, ale aby svým emocím postupně lépe rozumělo.",
-      "preview_subtitle": "Praktický průvodce pro rodiče dětí od 0 do 6 let."
-    },
-    {
       "cover": "/assets/uploads/43148aad-c3ef-47bb-a458-abe03c338162.png",
       "payhip_url": "https://payhip.com/b/AFTI9",
       "description": "Praktický e-book pro maminky, které chtějí méně chaosu, více přehledu a jednoduchý systém pro každodenní život.",
@@ -17,6 +8,13 @@
       "price": 179,
       "preview_intro": "Organizace nemusí znamenat dokonale uklizený domov ani přesný rozvrh každé minuty. Jde o několik jednoduchých opěrných bodů, díky kterým budeš mít méně věcí v hlavě a více prostoru pro sebe i rodinu. Nepotřebuješ zvládnout všechno. Potřebuješ vědět, co je důležité právě teď, a mít jednoduchý systém, ke kterému se můžeš vracet.",
       "preview_subtitle": "Praktický průvodce pro chvíle, kdy je toho na tebe hodně."
+    },
+    {
+      "payhip_url": "https://payhip.com/b/k23sV",
+      "title": "15 tipů, jak zvládnout, když dítě nechce jíst",
+      "price": 149,
+      "description": "Odmítá vaše dítě jídlo, nechce ochutnávat nové potraviny nebo jí stále dokola jen několik oblíbených jídel?\n\nPřipravili jsme pro vás praktického průvodce, který vám pomůže zvládat každodenní stolování s větším klidem, trpělivostí a porozuměním.\n\nUvnitř najdete 15 laskavých a praktických tipů, jak dítě nenutit do jídla, postupně ho seznamovat s novými potravinami a vytvořit příjemnější atmosféru u společného stolu.\n\n",
+      "cover": ""
     },
     {
       "title": "20 tipů, jak pomoci dítěti usnout",
@@ -35,11 +33,13 @@
       "preview_subtitle": "Praktický průvodce pro rodiče malých dětí."
     },
     {
-      "payhip_url": "https://payhip.com/b/k23sV",
-      "title": "15 tipů, jak zvládnout, když dítě nechce jíst",
+      "title": "20 způsobů, jak zvládnout dětské emoce",
       "price": 149,
-      "description": "Odmítá vaše dítě jídlo, nechce ochutnávat nové potraviny nebo jí stále dokola jen několik oblíbených jídel?\n\nPřipravili jsme pro vás praktického průvodce, který vám pomůže zvládat každodenní stolování s větším klidem, trpělivostí a porozuměním.\n\nUvnitř najdete 15 laskavých a praktických tipů, jak dítě nenutit do jídla, postupně ho seznamovat s novými potravinami a vytvořit příjemnější atmosféru u společného stolu.\n\n",
-      "cover": ""
+      "description": "Praktický průvodce pro rodiče dětí od 0 do 6 let.",
+      "cover": "/assets/uploads/4ecc7bb4-e52d-4acd-89a2-1f657075438c.png",
+      "payhip_url": "https://payhip.com/b/mBI4t",
+      "preview_intro": "Každý rodič zná situaci, kdy dítě najednou začne plakat, křičet, vztekat se nebo odmítat úplně všechno. Dítě se teprve učí rozpoznávat, pojmenovávat a zvládat to, co prožívá. Tato kniha nabízí 20 praktických způsobů, jak mu v náročných chvílích pomoci. Cílem není, aby dítě nikdy neplakalo nebo se nezlobilo, ale aby svým emocím postupně lépe rozumělo.",
+      "preview_subtitle": "Praktický průvodce pro rodiče dětí od 0 do 6 let."
     }
   ]
 }
